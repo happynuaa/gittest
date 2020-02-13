@@ -78,8 +78,6 @@ Qiitaにもすでにあった(;^ω^)
 https://qiita.com/masakinihirota/items/8b4d3705c009d7929ca8
 
 編集リクエスト
-ストック
-いいね
 29
 qrusadorz
 @qrusadorz
@@ -91,12 +89,14 @@ qrusadorz
 
 
 前提条件
-環境
+環境手順
 手順
 GitHubで新規レポジトリを作る
 ローカルにフォルダを作成。
 VSCodeからリモート先Gitを設定する
 初回のみGitのユーザーデータを設定する
+dasfg
+
 リモートからブランチをフェッチする
 masterブランチからdevelopブランチに切り替え
 念願のGitHubへのプッシュｷﾀ――(ﾟ∀ﾟ)――!!
